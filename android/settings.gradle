@@ -1,0 +1,3 @@
+rootProject.name = 'skyalertus_1292'
+
+include ':app'
